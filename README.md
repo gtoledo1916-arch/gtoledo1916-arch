@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hola 👋, soy Gerardo Toledo, estudiante de Ingeniería de Software en México. Actualmente me encuentro realizando mi estadía profesional y me especializo en desarrollo frontend, con experiencia en proyectos estudiantiles y trabajo en entornos ágiles.
-
+Hello 👋, I’m Gerardo Toledo, a Software Engineering student in Mexico. I am currently completing my professional internship and specialize in front-end development, with experience in student projects and working in agile environments.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jafet.toledo.127) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gerardo-toledo-894412274) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:geradito306@gmail.com) 
