@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello 👋, I’m Gerardo Toledo, a Software Engineering student from Mexico. I’m currently completing my professional internship and specialize in Full Stack Development, building dynamic web and mobile applications using React.js, Flutter, Node.js, and modern databases. I have experience working on team-based projects and agile environments.
+Hola, soy Gerardo Toledo, estudiante de Ingeniería en Software en Tuxtla Gutiérrez, Chiapas, México. Actualmente estoy realizando mis prácticas profesionales y me especializo en Desarrollo Full Stack, creando aplicaciones web y móviles dinámicas con React.js, Flutter, Node.js y bases de datos modernas. Me gusta ser autodidacta, aprender nuevas tecnologías y mejorar constantemente mis habilidades.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jafet.toledo.127) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gerardo-toledo-894412274) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:geradito306@gmail.com) 
