@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Acerca de Mí:
 Hola, soy Gerardo Toledo, estudiante de Ingeniería en Software en Tuxtla Gutiérrez, Chiapas, México. Actualmente estoy realizando mis prácticas profesionales y me especializo en Desarrollo Full Stack, creando aplicaciones web y móviles dinámicas con React.js, Flutter, Node.js y bases de datos modernas. Me gusta ser autodidacta, aprender nuevas tecnologías y mejorar constantemente mis habilidades.
 
 ## 🌐 Socials:
