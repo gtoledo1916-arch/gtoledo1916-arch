@@ -1,5 +1,5 @@
 # 💫 Acerca de Mí:
-Hola, soy Gerardo Toledo, estudiante de Ingeniería en Software en Tuxtla Gutiérrez, Chiapas, México. Actualmente estoy realizando mis prácticas profesionales y me especializo en Desarrollo Full Stack, creando aplicaciones web y móviles dinámicas con React.js, Flutter, Node.js y bases de datos modernas. Me gusta ser autodidacta, aprender nuevas tecnologías y mejorar constantemente mis habilidades.
+Desarrollador Full-Stack Jr con enfoque en frontend y backend, orientado a crear interfaces limpias y modernas, apoyadas por una implementación backend sólida para el desarrollo de aplicaciones funcionales y escalables.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jafet.toledo.127) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gerardo%20Toledo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gerardo-jafet-toledo-ca%C3%B1averal-894412274/)
@@ -13,7 +13,6 @@ Hola, soy Gerardo Toledo, estudiante de Ingeniería en Software en Tuxtla Gutié
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
@@ -35,9 +34,6 @@ Hola, soy Gerardo Toledo, estudiante de Ingeniería en Software en Tuxtla Gutié
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 ---
