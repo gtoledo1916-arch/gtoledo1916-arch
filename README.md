@@ -1,5 +1,5 @@
 # 💫 Acerca de Mí:
-Desarrollador Full-Stack Jr con enfoque en frontend y backend, orientado a crear interfaces limpias y modernas, apoyadas por una implementación backend sólida para el desarrollo de aplicaciones funcionales y escalables.
+Aspirante a Desarrollador Back-end Jr con experiencia práctica en Java/Spring Boot, Python y gestión de bases de datos relacionales y no relacionales. Habilidades en desarrollo de APIs, análisis de datos y conocimientos front-end con React.js, Laravel y Flutter/Dart. Motivado por aprender, colaborar y contribuir en proyectos que generen impacto tecnológico.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jafet.toledo.127) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gerardo%20Toledo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gjtoledo)
