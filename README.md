@@ -51,9 +51,6 @@ Aspirante a Desarrollador Back-end Jr con experiencia práctica en Java/Spring B
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 
-#
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=gtoledo1916-arch&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gtoledo1916-arch&icon=1&color=10)](https://visitcount.itsvg.in)
