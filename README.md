@@ -5,7 +5,7 @@ Aspirante a Desarrollador Back-end Jr con experiencia práctica en Java/Spring B
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jafet.toledo.127) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gerardo%20Toledo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gjtoledo)
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:geradito306@gmail.com) 
 
-# 💻 Tech Stack
+# 💻 Habilidades Técnicas
 
 ## 🎨 Front-End
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
