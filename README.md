@@ -1,7 +1,7 @@
 # 💫 Acerca de Mí:
 Aspirante a Desarrollador Back-end Jr con experiencia práctica en Java/Spring Boot, Python y gestión de bases de datos relacionales y no relacionales. Habilidades en desarrollo de APIs, análisis de datos y conocimientos front-end con React.js, Laravel y Flutter/Dart. Motivado por aprender, colaborar y contribuir en proyectos que generen impacto tecnológico.
 
-## 🌐 Socials:
+## 🌐 Redes sociales:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jafet.toledo.127) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gerardo%20Toledo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gjtoledo)
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:geradito306@gmail.com) 
 
