@@ -1,7 +1,3 @@
-# 💫 Acerca de Mí:
-Ingeniero en Software con experiencia en desarrollo backend utilizando Java (Spring Boot), PHP (Laravel) y Node.js (Express), enfocado en la construcción de APIs REST seguras y escalables. He trabajado con bases de datos MySQL y MongoDB, implementando autenticación basada en JWT y aplicando buenas prácticas de arquitectura y código limpio.
-
-Cuento además con experiencia en desarrollo full-stack mediante React y Tailwind CSS, así como conocimientos en análisis de datos con Python(Pandas y Matplotlib), lo que me permite participar en el ciclo completo de desarrollo y en el procesamiento de información orientada a la toma de decisiones.
 
 ## 🌐 Redes sociales:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jafet.toledo.127) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gerardo%20Toledo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gjtoledo)
