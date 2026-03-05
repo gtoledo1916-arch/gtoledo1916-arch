@@ -4,3 +4,6 @@ Welcome to my Github Profile
 <p align="center">
   <img src="pinot noir (1).png" alt="banner" />
 </p>
+<h1 align="right">
+⚡🙋‍♂️ About Me
+</h1>
