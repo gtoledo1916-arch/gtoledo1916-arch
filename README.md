@@ -10,11 +10,11 @@ Welcome to my Github Profile
 
 </br>
 
-- 🔧 I’m currently working on ...Online Retail Community App.
+- 
 
-- 💡 I’m curious about ...Blockchain and Crypto Currency.
-- 📖 I’m currently learning ...Flask.
-- ❄️ I’m looking to collaborate on ...Open Source Projects.
-- 📫 How to reach me ...gkaustav57@gmail.com.
+-
+- 
+- 
+- 
 
 <hr>
