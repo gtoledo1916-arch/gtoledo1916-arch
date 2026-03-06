@@ -8,8 +8,6 @@ Welcome to my GitHub profile
 
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="45%" align="right"/>
 
----
----
 
 <h3 align="center">🙋‍♂️ Connect with me</h3>
 
@@ -23,7 +21,7 @@ Welcome to my GitHub profile
   </a>
 </p>
 
----
+
 
 ## ⚡ About Me
 
