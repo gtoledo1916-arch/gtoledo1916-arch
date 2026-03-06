@@ -6,19 +6,15 @@ welcome to my GitHub profile
 </p>
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
 
-<p align ="center">
-
-
-  <a href="mailto:ifeanyinneji777@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
+<p align="center">
+  <a href="mailto:gtoledo1916@gmail.com?subject=Contact%20from%20GitHub&body=Hello%20Gerardo," target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
   </a>
-   <a href="https://www.linkedin.com/in/ifeanyi-nneji-719989235" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>   
- 
-  
 
-  </p>
+  <a href="https://www.linkedin.com/in/gjtoledo" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
 ## ⚡🙋‍♂️ About Me
 
