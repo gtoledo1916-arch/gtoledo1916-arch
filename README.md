@@ -6,6 +6,22 @@ welcome to my GitHub profile
 </p>
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
 
+<p align ="center">
+
+  <a href="https://ifeanyinneji.hashnode.dev/" target="_blank">
+      <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="example"/>
+  </a>	
+  <a href="mailto:ifeanyinneji777@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
+  </a>
+   <a href="https://www.linkedin.com/in/ifeanyi-nneji-719989235" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>   
+ 
+  </a>  
+
+  </p>
+
 ## ⚡🙋‍♂️ About Me
 
 </br>
