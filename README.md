@@ -6,7 +6,7 @@ welcome to my GitHub profile
 </p>
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
 
-<h2 align="center">📫 Contact Me</h2>
+
 
 <h2>📫 Contact Me</h2>
 
