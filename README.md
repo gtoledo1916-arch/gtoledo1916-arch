@@ -12,7 +12,7 @@ Welcome to my Github Profile
 
 💡 Me interesa la arquitectura backend, el diseño de APIs escalables y el desarrollo de aplicaciones basadas en datos.
 
-📖 Actualmente estoy aprendiendo más sobre diseño de sistemas, tecnologías cloud y optimización del rendimiento en backen.
+📖 Actualmente estoy aprendiendo más sobre diseño de sistemas, tecnologías cloud y optimización del rendimiento en backend.
 
 ❄️ Estoy buscando colaborar en proyectos de código abierto relacionados con desarrollo web.
 
