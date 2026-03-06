@@ -123,14 +123,6 @@ Welcome to my GitHub profile
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gtoledo1916-arch&show_icons=true&locale=en&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gtoledo1916-arch&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gtoledo1916-arch&theme=tokyonight" />
 </p>
 
