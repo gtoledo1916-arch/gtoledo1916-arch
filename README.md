@@ -10,13 +10,12 @@ welcome to my GitHub profile
 
 </br>
 
-💡 Me interesa la arquitectura backend, el diseño de APIs escalables y el desarrollo de aplicaciones basadas en datos.
+💡 I’m interested in backend architecture, scalable API design, and data-driven application development.
 
-📖 Actualmente estoy aprendiendo más sobre diseño de sistemas, tecnologías cloud y optimización del rendimiento en backend.
+📖 I’m currently learning more about system design, cloud technologies, and backend performance optimization.
 
-❄️ Estoy buscando colaborar en proyectos de código abierto relacionados con desarrollo web.
+❄️ I’m looking to collaborate on open source projects related to web development.
 
-🔹 Dashboard de análisis de datos y Visualización de información usando Python, Pandas y Matplotlib.
-  
+🔹 Data analysis dashboard and data visualization using Python, Pandas, and Matplotlib.
 
 <hr>
