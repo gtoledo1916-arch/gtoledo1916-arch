@@ -120,10 +120,17 @@ Welcome to my GitHub profile
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjunsingh27&show_icons=true&locale=en&layout=compact" alt="arjunsingh27" /></p>
+<h2 align="center">📊 GitHub Stats</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arjunsingh27&show_icons=true&locale=en" alt="arjunsingh27" /></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=gtoledo1916-arch&show_icons=true&locale=en&theme=tokyonight" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjunsingh27&" alt="arjunsingh27" /></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gtoledo1916-arch&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+</p>
 
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gtoledo1916-arch&theme=tokyonight" />
+</p>
 
