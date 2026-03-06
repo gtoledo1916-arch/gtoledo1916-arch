@@ -15,6 +15,6 @@ Welcome to my Github Profile
 - 📖 Actualmente estoy aprendiendo más sobre diseño de sistemas, tecnologías cloud y optimización del rendimiento en backend.
 - ❄️ Estoy buscando colaborar en proyectos de código abierto relacionados con desarrollo web.
 - 🔹 Dashboard de análisis de datos y Visualización de información usando Python, Pandas y Matplotlib.
-- 
+  
 
 <hr>
