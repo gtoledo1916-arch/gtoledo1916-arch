@@ -43,35 +43,6 @@ Welcome to my GitHub profile
 </tr>
 </table>
 
-<!-- Top Projects List -->
-</br>
-<h2>Top Projects</h2>
-
-<p align="center">
-
-<a href="https://github.com/gtoledo1916-arch/Gestor-de-tareas-con-POO">
-<img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gtoledo1916-arch&repo=Gestor-de-tareas-con-POO&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0">
-</a>
-
-<a href="https://github.com/gtoledo1916-arch/Spring-Boot-Actividad">
-<img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gtoledo1916-arch&repo=Spring-Boot-Actividad&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0">
-</a>
-
-<a href="https://github.com/gtoledo1916-arch/kfe-pos-frontend">
-<img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gtoledo1916-arch&repo=kfe-pos-frontend&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0">
-</a>
-
-<a href="https://github.com/gtoledo1916-arch/analisis-mortalidad-enfermedades-respiratorias">
-<img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gtoledo1916-arch&repo=analisis-mortalidad-enfermedades-respiratorias&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0">
-</a>
-
-</p>
-
-<p align="right">
-<a href="https://github.com/gtoledo1916-arch?tab=repositories">
-<img src="https://img.shields.io/badge/All%20Projects-05122A?style=flat-square">
-</a>
-</p>
 
 ## ⚡ Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 
@@ -121,5 +92,34 @@ Welcome to my GitHub profile
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </span>
 
+<!-- Top Projects List -->
+</br>
+<h2>Top Projects</h2>
+
+<p align="center">
+
+<a href="https://github.com/gtoledo1916-arch/Gestor-de-tareas-con-POO">
+<img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gtoledo1916-arch&repo=Gestor-de-tareas-con-POO&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0">
+</a>
+
+<a href="https://github.com/gtoledo1916-arch/Spring-Boot-Actividad">
+<img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gtoledo1916-arch&repo=Spring-Boot-Actividad&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0">
+</a>
+
+<a href="https://github.com/gtoledo1916-arch/kfe-pos-frontend">
+<img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gtoledo1916-arch&repo=kfe-pos-frontend&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0">
+</a>
+
+<a href="https://github.com/gtoledo1916-arch/analisis-mortalidad-enfermedades-respiratorias">
+<img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gtoledo1916-arch&repo=analisis-mortalidad-enfermedades-respiratorias&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0">
+</a>
+
+</p>
+
+<p align="right">
+<a href="https://github.com/gtoledo1916-arch?tab=repositories">
+<img src="https://img.shields.io/badge/All%20Projects-05122A?style=flat-square">
+</a>
+</p>
 
 
