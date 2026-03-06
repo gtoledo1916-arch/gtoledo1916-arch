@@ -8,17 +8,18 @@ welcome to my GitHub profile
 
 <div align="center">
 
-<p align="center"><strong>🙋‍♂️ Connect with me:</strong></p>
+<strong>🙋‍♂️ Connect with me:</strong>
 
-<p align="center">
-  <a href="mailto:gtoledo1916@gmail.com?subject=Contact%20from%20GitHub&body=Hello%20Gerardo," target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<br><br>
 
-  <a href="https://www.linkedin.com/in/gjtoledo" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<a href="mailto:gtoledo1916@gmail.com?subject=Contact%20from%20GitHub&body=Hello%20Gerardo," target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/gjtoledo" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 </div>
 
 ## ⚡🙋‍♂️ About Me
