@@ -8,7 +8,9 @@ welcome to my GitHub profile
 
 <h2 align="center">📫 Contact Me</h2>
 
-<p align="center">
+<h2>📫 Contact Me</h2>
+
+<p>
   <a href="mailto:gtoledo1916@gmail.com?subject=Contact%20from%20GitHub&body=Hello%20Gerardo," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
