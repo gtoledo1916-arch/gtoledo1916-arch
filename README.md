@@ -6,8 +6,7 @@ welcome to my GitHub profile
 </p>
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
 
-##🙋‍♂️ Connect with me:
-
+<p>🙋‍♂️ Connect with me:</p>
 
 <p>
   <a href="mailto:gtoledo1916@gmail.com?subject=Contact%20from%20GitHub&body=Hello%20Gerardo," target="_blank">
