@@ -8,7 +8,6 @@ welcome to my GitHub profile
 
 
 
-<h2>📫 Contact Me</h2>
 
 <p>
   <a href="mailto:gtoledo1916@gmail.com?subject=Contact%20from%20GitHub&body=Hello%20Gerardo," target="_blank">
