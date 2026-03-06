@@ -100,7 +100,7 @@ Welcome to my GitHub profile
 
 
 <a href="https://github.com/gtoledo1916-arch/Gestor-de-tareas-con-POO">
-<img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gtoledo1916-arch&repo=Gestor-de-tareas-con-POO &theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0">
+<img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gtoledo1916-arch&repo=Gestor-de-tareas-con-POO&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0">
 </a>
 
 <a href="https://github.com/gtoledo1916-arch/kfe-pos-frontend">
