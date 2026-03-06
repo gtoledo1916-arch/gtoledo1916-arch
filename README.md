@@ -9,17 +9,6 @@ Welcome to my GitHub profile
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="45%" align="right"/>
 
 ---
-
-## ⚡ About Me
-
-💡 I’m interested in backend architecture, scalable API design, and data-driven application development.
-
-📖 I’m currently learning more about system design, cloud technologies, and backend performance optimization.
-
-❄️ I’m looking to collaborate on open source projects related to web development.
-
-🔹 Data analysis dashboard and data visualization using Python, Pandas, and Matplotlib.
-
 ---
 
 <h3 align="center">🙋‍♂️ Connect with me</h3>
@@ -35,3 +24,15 @@ Welcome to my GitHub profile
 </p>
 
 ---
+
+## ⚡ About Me
+
+💡 I’m interested in backend architecture, scalable API design, and data-driven application development.
+
+📖 I’m currently learning more about system design, cloud technologies, and backend performance optimization.
+
+❄️ I’m looking to collaborate on open source projects related to web development.
+
+🔹 Data analysis dashboard and data visualization using Python, Pandas, and Matplotlib.
+
+
