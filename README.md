@@ -113,6 +113,8 @@ Welcome to my GitHub profile
 
 </p>
 
+![Arjun GitHub Statistics](https://github-readme-stats.vercel.app/api?username=arjunMee&show_icons=true)
+
 <p align="right">
 <a href="https://github.com/gtoledo1916-arch?tab=repositories">
 <img src="https://img.shields.io/badge/All%20Projects-05122A?style=flat-square">
