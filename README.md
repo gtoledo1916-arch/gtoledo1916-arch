@@ -1,5 +1,5 @@
 <h1 align="center">
-Hola a todos, bienvenidos a mi perfil de GitHub
+welcome to my GitHub profile
 </h1>
 <p align="center">
   <img src="pinot noir (1).png" alt="banner" />
