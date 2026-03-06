@@ -6,9 +6,6 @@ Welcome to my GitHub profile
   <img src="pinot noir (1).png" alt="banner"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="45%" align="right"/>
-
-
 <h3 align="center">🙋‍♂️ Connect with me</h3>
 
 <p align="center">
@@ -21,9 +18,13 @@ Welcome to my GitHub profile
   </a>
 </p>
 
-
+---
 
 ## ⚡ About Me
+
+<table>
+<tr>
+<td width="60%">
 
 💡 I’m interested in backend architecture, scalable API design, and data-driven application development.
 
@@ -33,4 +34,11 @@ Welcome to my GitHub profile
 
 🔹 Data analysis dashboard and data visualization using Python, Pandas, and Matplotlib.
 
+</td>
 
+<td width="40%">
+<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif"/>
+</td>
+
+</tr>
+</table>
