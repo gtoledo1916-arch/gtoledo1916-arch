@@ -43,6 +43,32 @@ Welcome to my GitHub profile
 </tr>
 </table>
 
+<!-- Top Projects List -->
+</br>
+<h2>Top Projects</h2>
+
+<p>
+
+<a href="https://github.com/gtoledo1916-arch/gtoledo1916-arch">
+<img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gtoledo1916-arch&repo=gtoledo1916-arch&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0">
+</a>
+
+<a href="https://github.com/gtoledo1916-arch/REPO2">
+<img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gtoledo1916-arch&repo=REPO2&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0">
+</a>
+
+<a href="https://github.com/gtoledo1916-arch/REPO3">
+<img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gtoledo1916-arch&repo=REPO3&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0">
+</a>
+
+</p>
+
+<p align="right">
+<a href="https://github.com/gtoledo1916-arch?tab=repositories">
+<img src="https://img.shields.io/badge/All%20Projects-05122A?style=flat-square">
+</a>
+</p>
+
 ## ⚡ Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 
 <h4> Programming Languages </h4>
@@ -91,21 +117,5 @@ Welcome to my GitHub profile
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </span>
 
-<!-- Top Projects List -->
-</br>
-<h2>Top Projects</h2>
-<p>
-  <a href="https://github.com/amangupta143/Data-Structures-and-Algorithms"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amangupta143&repo=Data-Structures-and-Algorithms&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Data Structures and Algorithms"></a>
-  <a href="https://github.com/amangupta143/Diabetes-Prediction-KNN">
-	  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amangupta143&repo=Diabetes-Prediction-KNN&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Diabetes-Prediction-KNN"></a>
-  <a href="https://github.com/amangupta143/BigMart-Sales-Prediction">
-	  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amangupta143&repo=BigMart-Sales-Prediction&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="BigMart-Sales-Prediction">
-  </a>
-  </br>
 
-  
-  </p>
-  <p align="right">
-    <a href="https://github.com/amangupta143?tab=repositories"><img alt="Static Badge" src="https://img.shields.io/badge/All%20Projects-05122A?style=flat-square"></a>
-  </p>
 
