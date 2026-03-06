@@ -47,20 +47,18 @@ Welcome to my GitHub profile
 </br>
 <h2>Top Projects</h2>
 
-<p>
+<p align="center">
 
 <a href="https://github.com/gtoledo1916-arch/gtoledo1916-arch">
 <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gtoledo1916-arch&repo=gtoledo1916-arch&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0">
 </a>
 
-<a href="https://github.com/gtoledo1916-arch/REPO2">
-<img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gtoledo1916-arch&repo=REPO2&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0">
-</a>
+</p>
 
-<a href="https://github.com/gtoledo1916-arch/REPO3">
-<img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gtoledo1916-arch&repo=REPO3&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0">
+<p align="right">
+<a href="https://github.com/gtoledo1916-arch?tab=repositories">
+<img src="https://img.shields.io/badge/All%20Projects-05122A?style=flat-square">
 </a>
-
 </p>
 
 <p align="right">
