@@ -90,3 +90,22 @@ Welcome to my GitHub profile
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </span>
+
+<!-- Top Projects List -->
+</br>
+<h2>Top Projects</h2>
+<p>
+  <a href="https://github.com/amangupta143/Data-Structures-and-Algorithms"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amangupta143&repo=Data-Structures-and-Algorithms&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Data Structures and Algorithms"></a>
+  <a href="https://github.com/amangupta143/Diabetes-Prediction-KNN">
+	  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amangupta143&repo=Diabetes-Prediction-KNN&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Diabetes-Prediction-KNN"></a>
+  <a href="https://github.com/amangupta143/BigMart-Sales-Prediction">
+	  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amangupta143&repo=BigMart-Sales-Prediction&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="BigMart-Sales-Prediction">
+  </a>
+  </br>
+
+  
+  </p>
+  <p align="right">
+    <a href="https://github.com/amangupta143?tab=repositories"><img alt="Static Badge" src="https://img.shields.io/badge/All%20Projects-05122A?style=flat-square"></a>
+  </p>
+
