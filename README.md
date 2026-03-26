@@ -122,7 +122,10 @@ Welcome to my GitHub profile
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gtoledo1916-arch&theme=tokyonight" />
-</p>
 
+<p align="center">
+<a href="https://github.com/gtoledo1916-arch">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gtoledo1916-arch&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gtoledo1916-arch&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
