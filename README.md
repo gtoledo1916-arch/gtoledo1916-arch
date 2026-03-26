@@ -96,7 +96,7 @@ Welcome to my GitHub profile
 </br>
 <h2>Top Projects</h2>
 
-<p align="center">
+<p align="left">
 
 
  <a href="https://github.com/gtoledo1916-arch/kfe-pos-backend">
@@ -113,17 +113,17 @@ Welcome to my GitHub profile
 
 </p>
 
-<p align="right">
+<p align="left">
 <a href="https://github.com/gtoledo1916-arch?tab=repositories">
 <img src="https://img.shields.io/badge/All%20Projects-05122A?style=flat-square">
 </a>
 </p>
 
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="left">📊 GitHub Stats</h2>
 
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/gtoledo1916-arch">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gtoledo1916-arch&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gtoledo1916-arch&layout=compact&langs_count=8&theme=algolia"/>
