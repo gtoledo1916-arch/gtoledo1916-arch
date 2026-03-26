@@ -3,18 +3,15 @@
 
 
 <p align="center">
-<p align="center">
-  <a href="https://www.linkedin.com/in/gjtoledo" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gerardo-linkedin" height="30" width="40" />
-  </a>
-
-<p align="center">
   <a href="mailto:gtoledo1916@gmail.com?subject=Contact%20from%20GitHub&body=Hello%20Gerardo," target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="25" width="30" />
     gtoledo1916@gmail.com
   </a>
-</p>
-</p>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/gjtoledo" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="25" width="30" />
+    LinkedIn
+  </a>
 </p>
 
 ---
