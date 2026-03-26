@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Gerardo Jafet Toledo Cañaveral 💻</h1>
-<h3 align="center">Backend Developer 🚀 | Frontend Knowledge 🎨 | Data Analysis Enthusiast 📊</h3>
-<h3 align="center">🙋‍♂️ Connect with me</h3>
+<p align="center">Backend Developer 🚀 | Frontend Knowledge 🎨 | Data Analysis Enthusiast 📊</p>
 
+<h3 align="center">🙋‍♂️ Connect with me</h3>
 <p align="center">
   <a href="mailto:gtoledo1916@gmail.com?subject=Contact%20from%20GitHub&body=Hello%20Gerardo," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
