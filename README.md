@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">👋 Hey there! I'm Gerardo Jafet Toledo Cañaveral 💻</h1>
+<h1 align="center">Hi there!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Gerardo Jafet Toledo Cañaveral 💻</h1>
 <h3 align="center">Backend Developer 🚀 | Frontend Knowledge 🎨 | Data Analysis Enthusiast 📊</h3>
 <h3 align="center">🙋‍♂️ Connect with me</h3>
 
