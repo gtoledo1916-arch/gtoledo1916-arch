@@ -4,25 +4,25 @@
 
 <p style="display: flex; justify-content: center; align-items: center; gap: 15px;">
   
-<p align="center">
-  <a href="mailto:gtoledo1916@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="25" width="30" />
-  </a>
-  &nbsp;
-  <a href="mailto:gtoledo1916@gmail.com">
-    gtoledo1916@gmail.com
-  </a>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="mailto:gtoledo1916@gmail.com">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="25" width="30" /><br>
+        gtoledo1916@gmail.com
+      </a>
+    </td>
 
-  &nbsp;&nbsp;|&nbsp;&nbsp;
+    <td align="center" style="padding: 0 20px;">|</td>
 
-  <a href="https://www.linkedin.com/in/gjtoledo" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="25" width="30" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/gjtoledo" target="_blank">
-    LinkedIn
-  </a>
-</p>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/gjtoledo" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="25" width="30" /><br>
+        LinkedIn
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
