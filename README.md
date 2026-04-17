@@ -2,18 +2,20 @@
 <p align="center">Backend Developer 🚀 | Frontend Knowledge 🎨 | Data Analysis Enthusiast 📊</p>
 
 
-<p align="center">
-  <a href="mailto:gtoledo1916@gmail.com?subject=Contact%20from%20GitHub&body=Hello%20Gerardo," target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="25" width="30" style="vertical-align: middle;" />
-    <span style="vertical-align: middle;"> gtoledo1916@gmail.com</span>
+<p style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+  
+  <a href="mailto:gtoledo1916@gmail.com?subject=Contact%20from%20GitHub&body=Hello%20Gerardo," target="_blank" style="text-decoration: none; display: flex; align-items: center; gap: 5px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="25" width="30" />
+    <span>gtoledo1916@gmail.com</span>
   </a>
 
-  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <span>|</span>
 
-  <a href="https://www.linkedin.com/in/gjtoledo" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="25" width="30" style="vertical-align: middle;" />
-    <span style="vertical-align: middle;"> LinkedIn</span>
+  <a href="https://www.linkedin.com/in/gjtoledo" target="_blank" style="text-decoration: none; display: flex; align-items: center; gap: 5px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="25" width="30" />
+    <span>LinkedIn</span>
   </a>
+
 </p>
 
 ---
