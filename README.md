@@ -8,16 +8,16 @@
   <tr>
     <td align="center">
       <a href="mailto:gtoledo1916@gmail.com">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="25" width="30" /><br>
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="25" width="30" />
         gtoledo1916@gmail.com
       </a>
     </td>
 
-    <td align="center" style="padding: 0 20px;">|</td>
+    <td>&nbsp;&nbsp;|&nbsp;&nbsp;</td>
 
     <td align="center">
       <a href="https://www.linkedin.com/in/gjtoledo" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="25" width="30" /><br>
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="25" width="30" />
         LinkedIn
       </a>
     </td>
