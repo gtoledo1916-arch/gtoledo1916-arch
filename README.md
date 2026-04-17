@@ -4,19 +4,25 @@
 
 <p style="display: flex; justify-content: center; align-items: center; gap: 15px;">
   
-  <a href="mailto:gtoledo1916@gmail.com?subject=Contact%20from%20GitHub&body=Hello%20Gerardo," target="_blank" style="text-decoration: none; display: flex; align-items: center; gap: 5px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="25" width="30" />
-    <span>gtoledo1916@gmail.com</span>
-  </a>
-
-  <span>|</span>
-
-  <a href="https://www.linkedin.com/in/gjtoledo" target="_blank" style="text-decoration: none; display: flex; align-items: center; gap: 5px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="25" width="30" />
-    <span>LinkedIn</span>
-  </a>
-
-</p>
+  <table align="center">
+  <tr>
+    <td align="center">
+      <a href="mailto:gtoledo1916@gmail.com">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="25" width="30" />
+        <br />
+        gtoledo1916@gmail.com
+      </a>
+    </td>
+    <td width="40"></td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/gjtoledo" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="25" width="30" />
+        <br />
+        LinkedIn
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
