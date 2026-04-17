@@ -13,7 +13,7 @@
       </a>
     </td>
 
-    <td>&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
 
     <td align="center">
       <a href="https://www.linkedin.com/in/gjtoledo" target="_blank">
@@ -23,7 +23,6 @@
     </td>
   </tr>
 </table>
-
 ---
 
 ## ⚡ About Me
