@@ -35,8 +35,7 @@
 
 ❄️ I’m looking to collaborate on open source projects related to web development.
 
-🔹 Data analysis dashboard and data visualization using Python, Pandas, and Matplotlib.
-
+🔹 Development of dashboards for data analysis and visualization using Python, Pandas, and Matplotlib.
 </td>
 
 <td width="40%">
