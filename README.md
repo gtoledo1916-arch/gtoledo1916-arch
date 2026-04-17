@@ -2,8 +2,7 @@
 <p align="center">Backend Developer 🚀 | Frontend Knowledge 🎨 | Data Analysis Enthusiast 📊</p>
 
 
-<p style="display: flex; justify-content: center; align-items: center; gap: 15px;">
-  
+
 <table align="center">
   <tr>
     <td align="center">
@@ -23,7 +22,6 @@
     </td>
   </tr>
 </table>
----
 
 ## ⚡ About Me
 
