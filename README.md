@@ -4,22 +4,27 @@
 
 <p style="display: flex; justify-content: center; align-items: center; gap: 15px;">
   
-  <table align="center">
+<table align="center">
   <tr>
     <td align="center">
       <a href="mailto:gtoledo1916@gmail.com">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="25" width="30" />
-        <br />
-        gtoledo1916@gmail.com
       </a>
     </td>
     <td width="40"></td>
     <td align="center">
       <a href="https://www.linkedin.com/in/gjtoledo" target="_blank">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="25" width="30" />
-        <br />
-        LinkedIn
       </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="mailto:gtoledo1916@gmail.com">Gmail</a>
+    </td>
+    <td></td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/gjtoledo" target="_blank">LinkedIn</a>
     </td>
   </tr>
 </table>
