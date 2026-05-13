@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Gerardo Jafet Toledo Cañaveral 💻</h1>
-<p align="center">Backend Developer 🚀 | Frontend Knowledge 🎨 | Data Analysis Enthusiast 📊</p>
+<p align="center">Software Engineer 💻 | Mobile Dev Flutter 📱 | Backend Developer 🚀 | Frontend Knowledge 🎨 | Data Analysis 📊 </p>
 
 
 
