@@ -29,13 +29,13 @@
 <tr>
 <td width="60%">
 
-💡 I’m interested in backend architecture, scalable API design, and data-driven application development.
+💡 Apasionado por el desarrollo backend y la construcción de sistemas eficientes y escalables.
 
-📖 I’m currently learning more about system design, cloud technologies, and backend performance optimization.
+📖 Actualmente estoy aprendiendo más sobre diseño de sistemas, tecnologías en la nube y optimización del rendimiento backend.
 
-❄️ I’m looking to collaborate on open source projects related to web development.
+❄️ Busco colaborar en proyectos open source relacionados con el desarrollo web.
 
-🔹 Development of dashboards for data analysis and visualization using Python, Pandas, and Matplotlib.
+🔹 Desarrollo de dashboards para análisis y visualización de datos utilizando Python, Pandas y Matplotlib.
 </td>
 
 <td width="40%">
