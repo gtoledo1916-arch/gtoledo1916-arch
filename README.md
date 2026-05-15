@@ -35,7 +35,7 @@
 
 ❄️ Busco colaborar en proyectos open source relacionados con el desarrollo web.
 
-🔹 Desarrollo de dashboards para análisis y visualización de datos utilizando Python, Pandas y Matplotlib.
+🔹 Conocimiento en desarrollo de dashboards para análisis y visualización de datos utilizando Python, Pandas y Matplotlib.
 </td>
 
 <td width="40%">
