@@ -67,17 +67,23 @@
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
 </span>
 
-<h4> Front-End </h4>
-<span>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
-</span>
 
-<h4> Data Analysis </h4>
+<h4> Data Engineer </h4>
+
 <span>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white">
+
 <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white">
+
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
+
+<img src="https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black">
+
+<img src="https://img.shields.io/badge/Data_Modeling-0A66C2?style=for-the-badge&logo=databricks&logoColor=white">
+
+<img src="https://img.shields.io/badge/ETL_Pipelines-FF6F00?style=for-the-badge&logo=apacheairflow&logoColor=white">
 </span>
 
 <h4> Databases </h4>
