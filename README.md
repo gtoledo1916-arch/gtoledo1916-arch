@@ -68,7 +68,7 @@
 </span>
 
 
-<h4> Data Engineer </h4>
+<h4> Data Engineering </h4>
 
 <span>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
